@@ -1,2 +1,2 @@
-# MonashArchive
-Monash assignent archive
+# Exercise
+Assignent archive
